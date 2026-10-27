@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>biggame-reg-sep09-04-kamensk-uralskiy-lestnichnoe-ograzhdenie-iz-stekla</Id>
+    <ListingFee>PackageBBL</ListingFee>
+    <ManagerName>Всё прозрачно</ManagerName>
+    <Category>Ремонт и строительство</Category>
+    <Address>Свердловская область, Каменск-Уральский</Address>
+    <Title>Лестничное ограждение из стекла</Title>
+    <Description>Стеклянные ограждения и перила для лестниц под размер. Принимаем заказы на объекты в Каменске-Уральском.
+
+Для готовой лестницы в доме, коттедже или таунхаусе: закрыть марш и площадку стеклом, сохранить свет и открытый вид интерьера. Изготовление самой лестницы и отделка ступеней в это предложение не входят.
+
+Смотрим основание, длину и высоту ограждения. По проекту подбираем стекло, крепления и поручень: точечное крепление, профиль или стойки. Тип и толщину стекла определяем после проверки конструкции.
+
+Предварительный расчет можно начать прямо в чате Авито. Пришлите фото лестницы или план, примерную длину ограждения и населенный пункт. Если размеров пока нет, начнем с фото.
+
+Цена в объявлении от 16 500 руб. является предварительным ориентиром; итоговая стоимость рассчитывается по размерам и комплектации. В смете согласуем изделие, крепления, монтаж и доставку. Условия и стоимость выезда в ваш город обсуждаем до оформления заказа.
+
+Изделие изготовим под ваш объект. Напишите, на каком этапе ремонт и к какому сроку нужны ограждения.</Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/main/avito/photo_refresh_sep09/assets/m178349560_457241691.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/main/avito/photo_refresh_sep09/assets/m178349560_457241692.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/main/avito/photo_refresh_sep09/assets/m178349560_457241693.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/main/avito/photo_refresh_sep09/assets/m178349560_457241694.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/main/avito/photo_refresh_sep09/assets/m178349560_457241695.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/main/avito/photo_refresh_sep09/assets/m178349560_457241696.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/main/avito/photo_refresh_sep09/assets/m211035836_457239496.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/main/avito/photo_refresh_sep09/assets/m178349560_457241675.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/main/avito/photo_refresh_sep09/assets/m178349560_457240476.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/main/avito/photo_refresh_sep09/assets/m178349560_457240510.jpg" />
+    </Images>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <Delivery>Выключена</Delivery>
+    <Price>16500</Price>
+    <GoodsType>Стройматериалы</GoodsType>
+    <AdType>Товар от производителя</AdType>
+    <Condition>Новое</Condition>
+    <Availability>Под заказ</Availability>
+    <GoodsSubType>Лестницы и комплектующие</GoodsSubType>
+    <ProductType>Перила и ограждения</ProductType>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <PurposeFor>
+      <Option>Лестницы</Option>
+    </PurposeFor>
+    <Material>Стекло</Material>
+    <AvitoId>8317346071</AvitoId>
+  </Ad>
+</Ads>
