@@ -698,4 +698,48 @@
     </PurposeFor>
     <Material>Стекло</Material>
   </Ad>
-  </Ads>
+  <Ad>
+    <Id>biggame-daily-nov16-ekb-mini-posts-real-object</Id>
+    <ListingFee>PackageBBL</ListingFee>
+    <ManagerName>Всё прозрачно</ManagerName>
+    <Category>Ремонт и строительство</Category>
+    <Address>Екатеринбург</Address>
+    <Title>Стеклянные ограждения на министойках</Title>
+    <Description>Стеклянное ограждение на министойках для лестницы и площадки в Екатеринбурге. Изготавливаем по размерам объекта. На первых двух фотографиях — реальное ограждение с короткими опорами, закреплёнными сверху на ступенях.
+
+Такое крепление оставляет стекло основным элементом ограждения. До изготовления согласуем расположение министоек, основание для крепежа, геометрию секций и необходимость поручня. Состав и толщину стекла подбираем по проекту; цвет стекла и фурнитуры согласуем отдельно.
+
+29 900 ₽ — предварительный ориентир за 1 погонный метр ограждения на заказ, не фиксированная цена всего объекта. Точную комплектацию и стоимость рассчитываем по размерам. Стекло, министойки, поручень, монтаж, доставка и выезд указываются отдельными позициями в смете. Ступени и каркас лестницы в предложение не входят.
+
+Для предварительного расчёта пришлите в сообщения Авито фотографии лестницы и места крепления, примерную длину ограждения и населённый пункт. Укажите, готова ли чистовая отделка. Обсудим вариант крепления и расчёт в переписке.
+
+В галерее 10 реальных фотографий. Фото 1–2 показывают вариант на министойках; фото 3–10 — другие примеры стеклянных ограждений и креплений, включая партнёрские объекты. Это разные конструкции: показанные материалы и комплектация не являются готовым комплектом по указанной цене.</Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/b090970f5f4bb5e76c6caa9ca18f9dd021cfbd83/avito/new_specialist_nov15/assets/efe0496119c6382d4fddbfee.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/b090970f5f4bb5e76c6caa9ca18f9dd021cfbd83/avito/new_specialist_nov15/assets/bdd28b57adf7c43e76d79603.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/b090970f5f4bb5e76c6caa9ca18f9dd021cfbd83/avito/gallery_ten_nov15/assets/f844097a4cbb3bc9285a2f45.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/b090970f5f4bb5e76c6caa9ca18f9dd021cfbd83/avito/gallery_ten_nov15/assets/ce40af009eca35e18ee5c56e.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/b090970f5f4bb5e76c6caa9ca18f9dd021cfbd83/avito/new_specialist_nov15/assets/29a31d4a5e55574156a11efd.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/b090970f5f4bb5e76c6caa9ca18f9dd021cfbd83/avito/new_specialist_nov15/assets/28029a3bf7065aaa80dfaf9d.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/b090970f5f4bb5e76c6caa9ca18f9dd021cfbd83/avito/new_specialist_nov15/assets/1780ed241a0f3c711a2103a8.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/b090970f5f4bb5e76c6caa9ca18f9dd021cfbd83/avito/new_specialist_nov15/assets/6ac4a82c207cfd6b3ec6fd15.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/b090970f5f4bb5e76c6caa9ca18f9dd021cfbd83/avito/new_specialist_nov15/assets/b05579378bff76de498c456d.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/b090970f5f4bb5e76c6caa9ca18f9dd021cfbd83/avito/gallery_ten_nov15/assets/7140f2667b5196f3d61f3352.jpg" />
+    </Images>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <Delivery>Выключена</Delivery>
+    <Price>29900</Price>
+    <GoodsType>Стройматериалы</GoodsType>
+    <AdType>Товар от производителя</AdType>
+    <Condition>Новое</Condition>
+    <Availability>Под заказ</Availability>
+    <GoodsSubType>Лестницы и комплектующие</GoodsSubType>
+    <ProductType>Перила и ограждения</ProductType>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <PurposeFor>
+      <Option>Лестницы</Option>
+    </PurposeFor>
+    <Material>Стекло</Material>
+  </Ad>
+</Ads>
