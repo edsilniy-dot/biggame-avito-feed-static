@@ -606,4 +606,50 @@
     </PurposeFor>
     <Material>Стекло</Material>
   </Ad>
+  <Ad>
+    <Id>biggame-new-specialist-nov16-ekb-low-iron</Id>
+    <ListingFee>PackageBBL</ListingFee>
+    <ManagerName>Всё прозрачно</ManagerName>
+    <Category>Ремонт и строительство</Category>
+    <Address>Екатеринбург</Address>
+    <Title>Стеклянные перила лестниц — осветлённое стекло</Title>
+    <Description>Стеклянные перила для лестницы из осветлённого (обесцвеченного) стекла. Предварительный ориентир — 19 900 ₽ за погонный метр. Изготавливаем на заказ и монтируем в Екатеринбурге и Свердловской области. Своё производство.
+
+Осветлённое прозрачное стекло — отдельный вариант для светлого интерьера, где важен нейтральный оттенок панелей. До изготовления согласуем образец, внешний вид кромки и креплений. По фотографии нельзя точно определить марку или состав стекла.
+
+Форму панелей, состав и толщину стекла, крепления и поручень подбираем для конкретной лестницы и несущего основания. Это индивидуальное ограждение, а не универсальный готовый комплект. Марка материала и наличие согласуются при комплектации.
+
+19 900 ₽ — приблизительный ориентир за 1 погонный метр ограждения, не фиксированная цена объекта. Итог зависит от размеров, состава стекла и фурнитуры. Изделие, монтаж, доставку и выезд указываем отдельными позициями в смете. Ступени и каркас лестницы не входят в цену ограждения.
+
+Для предварительного расчёта отправьте в сообщения Авито 2–3 фотографии лестницы, примерную длину ограждения и населённый пункт. Напишите, готова ли чистовая отделка. Обсудить варианты и расчёт можно прямо здесь; точную геометрию и условия выезда согласуем отдельно.
+
+Первый кадр — рекламная визуализация варианта с осветлённым стеклом и нашим специалистом, не документальная фотография готового объекта. Фото 2–10 — реальные примеры конструкций и креплений, включая партнёрские объекты; вид стекла и комплектация на этих примерах могут отличаться от предлагаемого исполнения.</Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/a4bf458792c3cd98f1a7326aa9fe6be1dccf4d04/avito/low_iron_nov16/assets/ekb_low_iron_59aebee8d6f7659e.png" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/19ec30c09be49001176b9bdc069c2bd1aca0ade8/avito/new_specialist_nov15/assets/c028416743d201bbf692b12e.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/19ec30c09be49001176b9bdc069c2bd1aca0ade8/avito/new_specialist_nov15/assets/26d98bc0b3b1075752d7be58.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/19ec30c09be49001176b9bdc069c2bd1aca0ade8/avito/new_specialist_nov15/assets/29a31d4a5e55574156a11efd.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/19ec30c09be49001176b9bdc069c2bd1aca0ade8/avito/new_specialist_nov15/assets/28029a3bf7065aaa80dfaf9d.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/19ec30c09be49001176b9bdc069c2bd1aca0ade8/avito/new_specialist_nov15/assets/1780ed241a0f3c711a2103a8.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/19ec30c09be49001176b9bdc069c2bd1aca0ade8/avito/new_specialist_nov15/assets/6ac4a82c207cfd6b3ec6fd15.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/19ec30c09be49001176b9bdc069c2bd1aca0ade8/avito/new_specialist_nov15/assets/b05579378bff76de498c456d.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/19ec30c09be49001176b9bdc069c2bd1aca0ade8/avito/new_specialist_nov15/assets/efe0496119c6382d4fddbfee.jpg" />
+      <Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/19ec30c09be49001176b9bdc069c2bd1aca0ade8/avito/new_specialist_nov15/assets/bdd28b57adf7c43e76d79603.jpg" />
+    </Images>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <Delivery>Выключена</Delivery>
+    <Price>19900</Price>
+    <GoodsType>Стройматериалы</GoodsType>
+    <AdType>Товар от производителя</AdType>
+    <Condition>Новое</Condition>
+    <Availability>Под заказ</Availability>
+    <GoodsSubType>Лестницы и комплектующие</GoodsSubType>
+    <ProductType>Перила и ограждения</ProductType>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <PurposeFor>
+      <Option>Лестницы</Option>
+    </PurposeFor>
+    <Material>Стекло</Material>
+  </Ad>
   </Ads>
