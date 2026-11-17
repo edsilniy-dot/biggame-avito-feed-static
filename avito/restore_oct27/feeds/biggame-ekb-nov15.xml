@@ -273,10 +273,7 @@
     <GoodsSubType>Лестницы и комплектующие</GoodsSubType>
     <ProductType>Перила и ограждения</ProductType>
     <TargetAudience>Частные лица и бизнес</TargetAudience>
-    <PurposeFor>
-      <Option>Лестницы</Option>
-    </PurposeFor>
-    <Material>Стекло</Material>
+    <PurposeFor><Option>Террасы</Option></PurposeFor><Material>Стекло</Material>
   </Ad>
   <Ad>
     <Id>biggame-ekb-nov15-sarapulka-glass-railing</Id>
