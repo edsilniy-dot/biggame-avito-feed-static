@@ -844,15 +844,12 @@
     <InternetCalls>Нет</InternetCalls>
     <Delivery>Выключена</Delivery>
     <Price>19900</Price>
-    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsType>Ворота, заборы и ограждения</GoodsType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Availability>Под заказ</Availability>
-    <GoodsSubType>Лестницы и комплектующие</GoodsSubType>
-    <ProductType>Перила и ограждения</ProductType>
     <TargetAudience>Частные лица и бизнес</TargetAudience>
-    <PurposeFor><Option>Террасы</Option></PurposeFor><Material>Стекло</Material>
-  </Ad>
+    <FenceType>Ограждения и сетки</FenceType><GuardrailSubType>Ограждение для балкона и террас</GuardrailSubType></Ad>
   <Ad>
     <Id>biggame-win17-ekb-balcony-grey-matte</Id>
     <ListingFee>Package</ListingFee>
@@ -902,15 +899,12 @@
     <InternetCalls>Нет</InternetCalls>
     <Delivery>Выключена</Delivery>
     <Price>19900</Price>
-    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsType>Ворота, заборы и ограждения</GoodsType>
     <AdType>Товар от производителя</AdType>
     <Condition>Новое</Condition>
     <Availability>Под заказ</Availability>
-    <GoodsSubType>Лестницы и комплектующие</GoodsSubType>
-    <ProductType>Перила и ограждения</ProductType>
     <TargetAudience>Частные лица и бизнес</TargetAudience>
-    <PurposeFor><Option>Террасы</Option></PurposeFor><Material>Стекло</Material>
-  </Ad>
+    <FenceType>Ограждения и сетки</FenceType><GuardrailSubType>Ограждение для балкона и террас</GuardrailSubType></Ad>
   <Ad>
     <Id>biggame-win17-ekb-porch-bronze-matte</Id>
     <ListingFee>Package</ListingFee>
