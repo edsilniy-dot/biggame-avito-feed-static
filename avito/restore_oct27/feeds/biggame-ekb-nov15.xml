@@ -1143,4 +1143,29 @@
     <TargetAudience>Частные лица и бизнес</TargetAudience>
     <PurposeFor><Option>Лестницы</Option><Option>Балкона и лоджии</Option></PurposeFor><Material>Стекло</Material>
   <ProductSubType>Перила</ProductSubType><AdStatus>Free</AdStatus></Ad>
+  <Ad>
+    <Id>biggame-nov19-ekb-fabricated-shipping-kit</Id>
+    <ListingFee>Package</ListingFee>
+    <ManagerName>Всё прозрачно</ManagerName>
+    <Category>Ремонт и строительство</Category>
+    <Address>Екатеринбург</Address>
+    <Title>Стеклянное ограждение на 12 точках — комплект</Title>
+    <Description>51 117 ₽ за комплект для 3 м² ограждения без монтажа — пример из сметы. В комплекте прозрачное закалённое стекло 10 мм с обработанной кромкой, 12 точечных держателей и соединитель.
+
+В сумму вошли проект, транспортный ящик и перевозка по исходному маршруту. Доставку до вашего города пересчитаем. Комплект можно передать своей монтажной бригаде.
+
+Чтобы узнать ориентир для своей лестницы, достаточно написать в чат примерную длину. Например: «Лестница около 4 м». Ответим здесь с предварительной ценой комплекта. Если ступени уже облицованы, позже пригодится фото торца и места крепления. В галерее представлены проектные визуализации.</Description>
+    <Images><Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/54ec6de21f74fb86148698b43d84d62073607a2d/avito/nov19_shipped_and_laminated_kits/assets/5f15617a430060c3b6d748b2c154084bd7787d8d15415ec23fdb8e4c25f7faa1.jpg" /><Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/54ec6de21f74fb86148698b43d84d62073607a2d/avito/nov19_shipped_and_laminated_kits/assets/fcb9a46ad6cc15667193d66f81878bf843c203c29eee783761c970bbe2a91d6d.jpg" /><Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/54ec6de21f74fb86148698b43d84d62073607a2d/avito/nov19_shipped_and_laminated_kits/assets/7cd8d244309b5b289507e4cc535c2e873064e97bbd5f7e1959ba434964da8535.jpg" /><Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/54ec6de21f74fb86148698b43d84d62073607a2d/avito/nov19_shipped_and_laminated_kits/assets/627dc85b3241400923635e988ab59d8978b12ef6f2b108931c7d01f628fcc742.jpg" /><Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/54ec6de21f74fb86148698b43d84d62073607a2d/avito/nov19_shipped_and_laminated_kits/assets/7bb4230b7e60287a57e966c0946bbf010d40f41f33583e88e5fefe5f59f3ff92.jpg" /><Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/54ec6de21f74fb86148698b43d84d62073607a2d/avito/nov19_shipped_and_laminated_kits/assets/14ee037543027e76445be62b5ae3b42f0e52efcc2a7c0690be7202570f25833b.jpg" /><Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/54ec6de21f74fb86148698b43d84d62073607a2d/avito/nov19_shipped_and_laminated_kits/assets/924f3233f42f773f81afa800e5bc652249e7d6b7f020e96d2f4241464de1bbf1.jpg" /><Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/54ec6de21f74fb86148698b43d84d62073607a2d/avito/nov19_shipped_and_laminated_kits/assets/90c7c81919a7eb2f83dfc643f39ed237ae7578c8796e91c524045ebcdeac8ccc.jpg" /><Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/54ec6de21f74fb86148698b43d84d62073607a2d/avito/nov19_shipped_and_laminated_kits/assets/387e65c16787a6331e6a8bb6a454c5b3f12fa84d0418226d7ad009d18152614c.jpg" /><Image url="https://raw.githubusercontent.com/edsilniy-dot/biggame-avito-feed-static/54ec6de21f74fb86148698b43d84d62073607a2d/avito/nov19_shipped_and_laminated_kits/assets/e9a72bb7434155fc6922bcb9950750db41b3c324ce5eb7bb56a007dda49535f4.jpg" /></Images><ContactMethod>В сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <Delivery>Выключена</Delivery>
+    <Price>51117</Price>
+    <GoodsType>Стройматериалы</GoodsType>
+    <AdType>Товар от производителя</AdType>
+    <Condition>Новое</Condition>
+    <Availability>Под заказ</Availability>
+    <GoodsSubType>Лестницы и комплектующие</GoodsSubType>
+    <ProductType>Перила и ограждения</ProductType>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <PurposeFor><Option>Лестницы</Option></PurposeFor><Material>Стекло</Material>
+  <ProductSubType>Перила</ProductSubType><AdStatus>Free</AdStatus></Ad>
   </Ads>
